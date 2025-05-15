@@ -40,7 +40,7 @@ Project ini merupakan aplikasi mobile berbasis Flutter yang terhubung dengan API
 
 | Nama Lengkap        | NIM         |
 | ------------------- | ----------- |
-| Christian Santoso   | 23.240.0006 |
+| Christian Santoso   | 23.240.0005 |
 | Muhammad Irsyad     | 23.240.0008 |
 | Suluh Aulia Arifin | 23.240.0040 |
 | Optima Amar         | 23.240.0069 |
